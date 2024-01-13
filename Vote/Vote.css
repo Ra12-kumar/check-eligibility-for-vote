@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color:bisque;
+}
+.box{
+    height:150px;
+    width:400px;
+    background-color:black;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    justify-items:center;
+    margin-top:100px;
+}
+.input{
+    width:400px;
+    height:30px;
+    font-size:30px;
+   
+
+}
+.age{
+    color:white;
+    font-size:30px;
+    margin-top:40px;
+    margin-left:32px;
+}
+.btn{
+    padding:5px 10px;
+    margin-left:150px;
+    font-size:12px;
+    margin-top:5px;
+}
